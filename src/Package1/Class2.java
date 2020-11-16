@@ -27,6 +27,5 @@ public class Class2 {
             System.out.println("Test Cases not passed");
         }
         driver.quit();
-
     }
 }
