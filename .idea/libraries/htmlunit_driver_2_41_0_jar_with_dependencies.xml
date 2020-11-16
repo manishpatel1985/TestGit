@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="htmlunit-driver-2.41.0-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../SeleniumWebdriverJar/htmlunit-driver-2.41.0-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SeleniumWebdriverJar/selenium-server-standalone-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../SeleniumWebdriverJar/htmlunit-driver-2.41.0-jar-with-dependencies.jar!/" />
+    </SOURCES>
+  </library>
+</component>
