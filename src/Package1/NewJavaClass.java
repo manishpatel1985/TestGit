@@ -6,6 +6,8 @@ public class NewJavaClass {
         System.out.println("Happy New year");
         System.out.println("Happy New year2020");
         System.out.println("Happy New year2020");
+        System.out.println("Happy New year2020");
+
 
     }
 }
